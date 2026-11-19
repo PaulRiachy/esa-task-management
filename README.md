@@ -29,8 +29,6 @@ backend/    Express API, TaskEvent model, event store, commands, queries, projec
 frontend/   React interface for tasks, history, and earlier versions
 ```
 
-There are no `starter/` or `solution/` subfolders.
-
 ## Run
 
 Requires **Node.js 18+** and **MongoDB running locally** (or change the connection string to your MongoDB instance).
